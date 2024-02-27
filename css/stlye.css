@@ -1,0 +1,58 @@
+.top{
+    background-color: #FAFAE4;
+    position: relative;
+    padding-top: 100px;
+    width: 100%;
+    height: 600px;
+}
+
+.fut{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+    background-color: transparent;
+}
+.top{
+    display: flex;
+    justify-content: center;
+}
+.title-text{
+    color: #781C1C;
+    justify-content: center;
+    align-items: center;
+    
+}
+.name{
+    font-family: cursive;
+    font-size:500%;
+    align-self: center;
+}
+.profession{
+    font-family:monospace;
+    font-size: 250%;
+    align-self: center;
+}
+.football{
+    position: absolute;
+    left: 200px;
+    bottom: 300px;
+}
+.dallas{
+    position: absolute;
+    top: 50%;
+    left: 20%;
+}
+
+.icon-picture{
+    border-radius: 50%;
+    height: 200px;
+}
+h2{
+    color: #781c1c;
+    font-weight: 800;
+    text-align: center;
+
+}
+footer{
+    background-color: #FAFAE4;
+}
